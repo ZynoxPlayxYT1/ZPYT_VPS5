@@ -16,7 +16,8 @@
     dpkg         
     bashInteractive
     coreutils
-    glibcLocales 
+    glibcLocales
+    pkgs.apt
   ];
 
   env = { 
